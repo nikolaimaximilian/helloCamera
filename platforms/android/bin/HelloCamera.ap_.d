@@ -1,0 +1,26 @@
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/HelloCamera.ap_ \
+ : /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/drawable/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/drawable-hdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/drawable-ldpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/drawable-mdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/values/strings.xml \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/res/xml/config.xml \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/res/drawable/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/config.xml \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/cordova.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/cordova_plugins.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/index.html \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/AndroidManifest.xml \
