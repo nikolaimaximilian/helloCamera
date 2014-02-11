@@ -18,9 +18,14 @@
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/index.html \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.device-orientation \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/Camera.js \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraConstants.js \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.device-orientation/www \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.device-orientation/www/compass.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.device-orientation/www/CompassError.js \
+/Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/assets/www/plugins/org.apache.cordova.device-orientation/www/CompassHeading.js \
 /Users/Nikolai/Development/Hybrid/apps/helloCamera/platforms/android/bin/AndroidManifest.xml \

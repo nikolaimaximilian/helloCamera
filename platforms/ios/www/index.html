@@ -63,6 +63,17 @@
       );
     }
 
+
+
+
+    function onSuccessC(heading) {
+    alert('Heading: ' + heading.magneticHeading);
+    };
+
+    function onErrorC(error) {
+        alert('CompassError: ' + error.code);
+    };
+
     </script>
   </head>
   <body>
@@ -70,6 +81,7 @@
     <button onclick="getPhoto(navigator.camera.PictureSourceType.CAMERA, false);">Capture Photo</button><br>
     <button onclick="getPhoto(navigator.camera.PictureSourceType.CAMERA, true);">Capture Photo (Editable)</button><br>
     <button onclick="getPhoto(navigator.camera.PictureSourceType.PHOTOLIBRARY, false);">From Photo Library</button><br>
+    <button onclick="navigator.compass.getCurrentHeading(onSuccessC, onErrorC);">Compass</button><br>
     <button onclick="getPhoto(navigator.camera.PictureSourceType.SAVEDPHOTOALBUM, true);">From Photo Album (Editable)</button><br>
     <img style="display:none;" id="cdvImage" src="" />
   </body>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EAD22E2A-6140-486F-9C21-372CEDCABF63</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5B6FAF9-FE27-4F8C-B0C9-54B8E67FCDD3</key>
+		<string>https://github.com/autumnride/helloCamera.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/HelloCamera.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5B6FAF9-FE27-4F8C-B0C9-54B8E67FCDD3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/autumnride/helloCamera.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5B6FAF9-FE27-4F8C-B0C9-54B8E67FCDD3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5B6FAF9-FE27-4F8C-B0C9-54B8E67FCDD3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>helloCamera</string>
+		</dict>
+	</array>
+</dict>
+</plist>
